@@ -1,3 +1,5 @@
+Test project is based on https://github.com/SimGus/chrome-extension-v3-starter. Only intercepts requests and logs detils on the console.
+
 The directory holding the manifest file can be added as an extension in developer mode in its current state. To load an unpacked extension in developer mode, follow these steps:
 - Open the Extension Management page by navigating to chrome://extensions.
 - Enable Developer Mode by clicking the toggle switch next to Developer mode.
