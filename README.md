@@ -8,3 +8,9 @@ The directory holding the manifest file can be added as an extension in develope
 - Ta-da! The extension has been successfully installed. Because no icons were included in the manifest, a generic icon will be created for the extension.
 
 For the detailed information please check https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked.
+
+
+
+
+https://user-images.githubusercontent.com/48864422/187760791-620b1c52-b54c-46ff-a4aa-11e03a1d5079.mp4
+
